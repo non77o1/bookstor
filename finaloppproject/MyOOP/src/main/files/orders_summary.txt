@@ -1,0 +1,100 @@
+Order Id: 9	Payment Id: 9	Customer Id: 1	Customer Name: hneen
+
+	 way of pay: cash	 Delivery way : Shipping 
+
+	Total Price: 169.0	Number of Items: 1
+
+	Date of Order and Shipping: 2022-04-28
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Order Id: 10	Payment Id: 10	Customer Id: 2	Customer Name: sara
+
+	 way of pay: Online(card)	 Delivery way : Pick Up from Store
+
+	Total Price: 70.0	Number of Items: 1
+
+	Date of Order and Shipping: 2022-04-28
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Order Id: 11	Payment Id: 10	Customer Id: 1	Customer Name: hneen
+
+	 way of pay: Online(card)	 Delivery way : Shipping
+
+	Total Price: 169.0	Number of Items: 1
+
+	Date of Order and Shipping: 2022-04-28
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Order Id: 12	Payment Id: 12	Customer Id: 1	Customer Name: hneen
+
+	 way of pay: Online(card)	 Delivery way : Shipping
+
+	Total Price: 367.0	Number of Items: 3
+
+	Date of Order and Shipping: 2022-04-28
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Order Id: 13	Payment Id: 13	Customer Id: 3	Customer Name: maha
+
+	 way of pay: cash	 Delivery way : Pick Up from Store
+
+	Total Price: 147.0	Number of Items: 2
+
+	Date of Order and Shipping: 2022-04-28
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Order Id: 14	Payment Id: 14	Customer Id: 3	Customer Name: maha
+
+	 way of pay: cash	 Delivery way : Pick Up from Store
+
+	Total Price: 198.0	Number of Items: 2
+
+	Date of Order and Shipping: 2022-04-28
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Order Id: 16	Payment Id: 16	Customer Id: 6	Customer Name: asma
+
+	 way of pay: cash	 Delivery way : Pick Up from Store
+
+	Total Price: 195.0	Number of Items: 3
+
+	Date of Order and Shipping: 2022-04-29
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Order Id: 17	Payment Id: 17	Customer Id: 1	Customer Name: hneen
+
+	 way of pay: cash	 Delivery way : Pick Up from Store
+
+	Total Price: 88.0	Number of Items: 1
+
+	Date of Order and Shipping: 2022-05-05
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Order Id: 18	Payment Id: 18	Customer Id: 1	Customer Name: hneen
+
+	 way of pay: cash	 Delivery way : Shipping 
+
+	Total Price: 345.0	Number of Items: 3
+
+	Date of Order and Shipping: 2022-05-05
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Order Id: 24	Payment Id: 24	Customer Id: 1	Customer Name: hneen
+
+	 way of pay: Online(card)	 Delivery way : Pick Up from Store
+
+	Total Price: 239.0	Number of Items: 3
+
+	Date of Order and Shipping: 2022-05-06
+
+-----------------------------------------------------------------------------------------------------------------------------
+
